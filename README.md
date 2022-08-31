@@ -1,11 +1,9 @@
 # Shoppy Dashboard
 
+[View Live Site](https://syncfusion-dashboard-benz.netlify.app/){:target="_blank" rel="noopener"}
+
 A React dashboard application taught by Javascript Mastery.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Demo
-
-[View Live Site](https://cryptoverse-benz.netlify.app/)
 
 ## Features
 

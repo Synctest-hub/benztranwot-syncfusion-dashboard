@@ -11,6 +11,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Charts built by Syncfusion Components.
 - Kanban board, Scheduler, Color picker and more.
 
+## Preview
+
+<img src="./resources/dashboard.png" width="400" />&nbsp;<img src="./resources/kanban.png" width="400" />
+<img src="./resources/customers.png" width="400" />&nbsp;<img src="./resources/pie.png" width="400" />
+
 ## To run this project
 
 1. Clone this repository
